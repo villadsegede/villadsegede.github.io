@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseURL = "https://villadsegede.github.io/"
+languageCode = "en-uk"
+title = "Villads Egede Johansen | Optics and photonics at surfaces"
+theme = "starter-academic"
